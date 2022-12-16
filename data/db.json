@@ -1,0 +1,19 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Lorem ipsum...",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "My second blog",
+      "body": "Lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    }
+  ],
+  "author": {
+    "name": "akbar angkasa"
+  }
+}
